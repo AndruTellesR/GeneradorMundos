@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=JuegoMundos
+comment1.params=
+comment1.target=JuegoMundos()
+comment10.params=
+comment10.target=void\ imprimirMundo()
+comment2.params=
+comment2.target=void\ generarMundo()
+comment3.params=i\ j
+comment3.target=void\ muereBicho(int,\ int)
+comment4.params=i\ j
+comment4.target=void\ naceBicho(int,\ int)
+comment5.params=i\ j
+comment5.target=void\ sobreViveBicho(int,\ int)
+comment6.params=i\ j
+comment6.target=int\ bichoArriba(int,\ int)
+comment7.params=i\ j
+comment7.target=int\ bichoAdelante(int,\ int)
+comment8.params=i\ j
+comment8.target=int\ bichoAtras(int,\ int)
+comment9.params=i\ j
+comment9.target=int\ bichoAbajo(int,\ int)
+numComments=11
